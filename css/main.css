@@ -1,0 +1,59 @@
+.btn {
+    height: 200px;
+    width: 175px;
+    border: 2px solid black; 
+}
+
+.score {
+    height: 50px;
+    width: 100px;
+    border: 4px double black;
+}
+
+.ore {
+    height: 200px;
+    width: 400px;
+    border: 3px solid gray;
+}
+
+#crys1 {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Psilomelane-167850.jpg/220px-Psilomelane-167850.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: 50%;
+}
+
+#crys2 {
+    background-image: url("https://cavemanchemistry.com/oldcave/projects/smelt/02.big.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: 50%;
+}
+
+#crys3 {
+    background-image: url("https://3.imimg.com/data3/VV/YB/MY-10607352/iron-ore-250x250.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: 50%;
+}
+
+#crys4 {
+    background-image: url("https://museumsvictoria.com.au/website/pages/21384/MI000082-M37600-Rhodochrosite.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: 50%;
+}
+#Ore-Cart {
+    background-image: url("https://previews.123rf.com/images/roxiller/roxiller1609/roxiller160900266/63374007-empty-wooden-mine-cart-for-your-designs-cartoon-mine-cart.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: 50%;
+    font: bolder;
+    
+}
+.box {
+    height: 25px;
+    border: 2px dotted black;
+    margin: 0;
+    widows: 50px;
+}
